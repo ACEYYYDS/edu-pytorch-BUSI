@@ -1,5 +1,5 @@
-# edu-pytorch-BUSI
-Learn PyTorch basics with BUSI dataset
+# WIP
+### Learn PyTorch basics with BUSI dataset
 
 > BUSI dataset (https://scholar.cu.edu.eg/?q=afahmy/pages/dataset)  
 Al-Dhabyani, Walid, et al. "Dataset of breast ultrasound images." Data in brief 28 (2020): 104863.  
