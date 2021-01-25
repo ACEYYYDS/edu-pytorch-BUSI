@@ -1,2 +1,2 @@
 # edu-pytorch-BUSI
-Learning basics of pytorch w/ BUSI dataset
+Learning basics of pytorch with BUSI dataset
